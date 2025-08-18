@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# GNIMUN
-=======
-# CNIMUN Conference Landing Page
 
 A modern, responsive landing page for the CNIMUN (Conference Name) conference with a futuristic dark theme design.
 
@@ -208,4 +204,4 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 **Built with ❤️ for CNIMUN Conference** 
->>>>>>> 3f0c673 (Stage 1)
+
